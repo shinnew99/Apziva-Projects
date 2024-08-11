@@ -12,3 +12,6 @@
 
 4th Note
 - Applied Recursive Feature Elimination with the best working model (XGBClassifier)
+
+final_ver
+- The final clear note, with 88% of performance
